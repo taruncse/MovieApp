@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MovieApp</string>
+
+
+    <!-- Navigation items -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_world">World</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_sport">Sport</string>
+    <string name="ic_title_environment">Environment</string>
+    <string name="ic_title_society">Society</string>
+    <string name="ic_title_fashion">Fashion</string>
+    <string name="ic_title_business">Business</string>
+    <string name="ic_title_culture">Culture</string>
 </resources>

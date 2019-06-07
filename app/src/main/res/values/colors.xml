@@ -7,4 +7,6 @@
     <color name="color_app_bar_text">#005689</color>
     <color name="color_tab_text">#a7c0cd</color>
 
+    <color name="nav_bar_start">#7db1ec</color>
+    <color name="nav_bar_end">#002e5b</color>
 </resources>
